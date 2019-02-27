@@ -13,11 +13,11 @@ let password2=text2.value;
   }
   else if (password1.length <= 7 || password2.length <= 7)
   {
-    alert("The passwords are less than 8 characters long!")
+    alert("The passwords are less than 8 characters long!");
   }
   else
   {
-    alert("The password is validated!")
+    alert("The password is validated!");
   }
 
 }

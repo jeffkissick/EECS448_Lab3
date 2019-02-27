@@ -1,0 +1,18 @@
+form.border
+{
+    position: absolute;
+    left: 10px;
+    top: 70px;
+}
+
+
+form.background
+{
+    position: absolute;
+    left: 250px;
+    top: 70px;
+} 
+p
+{
+    border-style: solid;
+}
